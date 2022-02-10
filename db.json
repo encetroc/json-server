@@ -1,0 +1,53 @@
+{
+  "cities": [
+    {
+      "name": "Tanger",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Miami"
+    },
+    {
+      "id": 4,
+      "name": "Paris"
+    },
+    {
+      "name": "kenitra",
+      "id": 5
+    },
+    {
+      "name": "Porto",
+      "id": 6
+    }
+  ],
+  "courses": [
+    {
+      "id": 2,
+      "name": "WebDev",
+      "type": "Part Time"
+    },
+    {
+      "id": 4,
+      "name": "UX/UI",
+      "type": "Part Time"
+    }
+  ],
+  "bootcamps": [
+    {
+      "id": 2,
+      "cityId": 2,
+      "courseId": 2
+    },
+    {
+      "id": 4,
+      "cityId": 4,
+      "courseId": 2
+    },
+    {
+      "id": 6,
+      "cityId": 3,
+      "courseId": 4
+    }
+  ]
+}
